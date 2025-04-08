@@ -1,0 +1,25 @@
+[{
+"name": {
+    "first": "Ell",
+    "middle": "",
+    "last": "Vis"
+  },
+    "isBusiness": true,
+  "isAdmin": true,
+  "phone": "0512345567",
+  "email": "ellvis@email.com",
+  "password": "Abc!123Abc",
+  "address": {
+    "state": "IL",
+    "country": "Israel",
+    "city": "Arad",
+    "street": "Shoham",
+    "houseNumber": 5,
+    "zip": 8920435
+  },
+  "image": {
+    "url": "",
+    "alt": ""
+  }
+}
+]
